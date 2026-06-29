@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.9333,
+  "finetuned_accuracy": 0.7667,
+  "improvement": -0.1667,
+  "test_set_size": 30,
+  "label_map": {
+    "Consensus Favorite": 0,
+    "Underrated Strong Team": 1,
+    "Popular Underdog": 2,
+    "Niche Dark Horse": 3
+  },
+  "model": "distilbert-base-uncased"
+}
